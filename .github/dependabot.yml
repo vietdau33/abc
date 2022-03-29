@@ -5,6 +5,6 @@ updates:
     schedule:
       interval: "daily"
   - package-ecosystem: "composer"
-      directory: "/"
-      schedule:
-        interval: "daily"
+    directory: "/"
+    schedule:
+      interval: "daily"
